@@ -1,4 +1,4 @@
-Materi yang dihigligh : 
+Materi yang di higlihght : 
 -activity
 -menyimpan state untuk bertahan dari perubahan konfigurasi dengan onSaveInstanceState(outStae:Bundle)
 
